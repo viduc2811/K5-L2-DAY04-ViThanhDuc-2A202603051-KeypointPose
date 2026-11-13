@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603051",
+ "ten": "ViThanhDuc",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "ducvt",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000021235.jpg",
+  "000000164659.jpg",
+  "000000176000.jpg",
+  "000000225138.jpg",
+  "000000295358.jpg",
+  "000000157271.jpg",
+  "000000311497.jpg",
+  "000000393909.jpg",
+  "000000461002.jpg",
+  "000000518966.jpg",
+  "000000572411.jpg",
+  "000000012552.jpg"
+ ],
+ "faces": [
+  "face_10579.jpg",
+  "face_469647.jpg",
+  "face_496353.jpg",
+  "face_105668.jpg",
+  "face_264124.jpg",
+  "face_81239.jpg",
+  "face_13874.jpg",
+  "face_560282.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "persons-ViThanhDuc"
+  },
+  "faces": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "faces-ViThanhDuc"
+  }
+ }
+}
